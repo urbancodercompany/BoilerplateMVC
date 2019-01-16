@@ -30,3 +30,8 @@
 /Users/frederic/Documents/VS_CODE_Projects/BoilerplateMVC/obj/Debug/netcoreapp2.2/BoilerplateMVC.dll
 /Users/frederic/Documents/VS_CODE_Projects/BoilerplateMVC/obj/Debug/netcoreapp2.2/BoilerplateMVC.pdb
 /Users/frederic/Documents/VS_CODE_Projects/BoilerplateMVC/obj/Debug/netcoreapp2.2/BoilerplateMVC.csproj.CopyComplete
+/Users/frederic/Documents/VS_CODE_Projects/BoilerplateMVC/obj/Debug/netcoreapp2.2/Razor/Views/Clientes/Create.g.cshtml.cs
+/Users/frederic/Documents/VS_CODE_Projects/BoilerplateMVC/obj/Debug/netcoreapp2.2/Razor/Views/Clientes/Delete.g.cshtml.cs
+/Users/frederic/Documents/VS_CODE_Projects/BoilerplateMVC/obj/Debug/netcoreapp2.2/Razor/Views/Clientes/Details.g.cshtml.cs
+/Users/frederic/Documents/VS_CODE_Projects/BoilerplateMVC/obj/Debug/netcoreapp2.2/Razor/Views/Clientes/Edit.g.cshtml.cs
+/Users/frederic/Documents/VS_CODE_Projects/BoilerplateMVC/obj/Debug/netcoreapp2.2/Razor/Views/Clientes/Index.g.cshtml.cs
